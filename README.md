@@ -4,3 +4,5 @@
 
 # Recriando-Interface-do-Netflix
 Projeto Recriando Interface do Netflix 
+
+Link de acesso: https://youthful-hoover-95f022.netlify.app/netflix.htm
